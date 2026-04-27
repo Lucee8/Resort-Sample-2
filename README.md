@@ -1,4 +1,4 @@
-# 🌊 The Windmill Resorts – Blue & White Premium Website
+# 🌊 Taj Exotica Resorts– Blue & White Premium Website
 
 > A production-grade, fully animated luxury resort website in a clean **blue & white** professional theme. Built with pure HTML, CSS & JavaScript — no frameworks, no build tools, just open and go.
 
@@ -7,7 +7,7 @@
 
 ## 🌐 Live Demo
 
-👉 **[View Live Site](https://your-username.github.io/windmill-resorts/)**
+👉 **[View Live Site](https://lucee8.github.io/Resort-Sample-2/)**
 
 > Replace this link with your actual GitHub Pages URL after deployment.
 
